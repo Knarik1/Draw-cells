@@ -1,0 +1,16 @@
+.sq-block {
+    display: inline-block;
+    border: 1px solid darkblue;
+}
+
+button[disabled], input[disabled] {
+    cursor: default!important;
+}
+
+.actionsDiv {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+

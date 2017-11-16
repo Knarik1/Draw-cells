@@ -1,0 +1,16 @@
+{
+  "name": "Draw Cells",
+  "version": "1.0.0",
+  "description": "Draw and colourise cells by given count.",
+  "main": "script.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Knarik Mheryan",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "sweetalert": "^2.0.8"
+  }
+}
